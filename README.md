@@ -15,7 +15,7 @@ gcc -o main.c *.c -std=gnu99 -L ../ZDK -I ../ZDK -lzdk -lncurses -lm
 
 ## Author
 
-* **Sara Alraddadi** - *Initial work* - [Sara-Alraddadi](https://github.com/Sara-Alraddadi)
+* **Sara Alraddadi** - *Initial work* - [Sara-Alraddadi](https://github.com/Saraalraddadi)
 
 
 ## License

@@ -26,4 +26,4 @@ ZDK is owned by their respective authors.
 
 ## Acknowledgments
 
-* For more information about the project please refer to (Pong-Game-Project/CAB202_SnakeGame_Info.pdf).
+* For more information about the project please refer to (Snake_Game_Teensy_Project/CAB202_SnakeGame_Info.pdf).
